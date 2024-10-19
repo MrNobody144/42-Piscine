@@ -8,12 +8,12 @@ Above are the codes written for **42-Piscine**, a necessary programme for every 
 
 The coding is mainly done in **C** as it helps provide the student with a fundamental understanding of coding.
 
-Students are expected to progress through a curriculum in a similar manner to that of solving puzzles in a game
+Students are expected to progress through a curriculum in a similar manner to that of **solving puzzles in a game**
 
-The curriculum is segmented into multiple levels with increasing difficulties. Each level provides the student with a new, "Subject PDF" that details the tasks students have to to complete for that level and the requirements for each of those tasks
+The curriculum is segmented into multiple levels with *increasing difficulties*. Each level provides the student with a new, **"Subject PDF"** that details the tasks students have to to complete for that level and the requirements for each of those tasks
 
-Upon the completion of a level, students may subscribe for an evaluation session. A random student will be assigned to evaluate the code produced by the other student. The evaluator will test the submitted code for faults and if it meets the requirements listed
+**Upon the completion** of a level, students may subscribe for an evaluation session. A random student will be assigned to evaluate the code produced by the other student. The evaluator will test the submitted code *for faults* and if it *meets the requirements* listed
 
-It was a grueling process but nonetheless a rewarding one
+*It was a grueling process but nonetheless a rewarding one*
 
 [Link to the 42KL website for more information] (https://42kl.edu.my/)
