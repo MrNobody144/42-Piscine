@@ -1,6 +1,6 @@
 <h1>42-Piscine</h1>
 
-**42-Piscine** is a programme conducted by *42KL*, a subsidiary group of the larger *42 Network*.
+- **42-Piscine** is a programme conducted by *42KL*, a subsidiary group of the larger *42 Network*.
 
 The *42 network* is a collection of coding schools that emphasizes on the philosophy of **self-learning**.
 
